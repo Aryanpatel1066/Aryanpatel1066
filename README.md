@@ -19,6 +19,8 @@
 </h1>
 
 ### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 # Hey There! 👋
 ---
 Hello everyone i'm Aryan Patel computer engineering student.  I am always curious about new technology. i'm  **web developer**. i work on random project in free time
