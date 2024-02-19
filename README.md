@@ -31,6 +31,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,mysql,git)](https://skillicons.dev)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Aryanpatel1066&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&hide_border=true)](https://git.io/streak-stats)
  
