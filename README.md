@@ -38,7 +38,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ## 🔥 GitHub Stats  
- <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1px;">
+ <div  style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanpatel1066&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
  </div>
