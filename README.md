@@ -1,7 +1,7 @@
 <div id="header" align="center">
-<img src="https://github.com/redmifiel/redmifiel/blob/main/assets/myvideo.gif?raw=true" width="200"/> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMweTV6cXY3NXVtdmptdXl2azV2bzY3bWxpNXduM29hMXJvOXptMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DlPoSi9la5UP0Y4hk9/giphy.gif" width="200"/>
 </div>
-
+ 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aryanpatel1066/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
