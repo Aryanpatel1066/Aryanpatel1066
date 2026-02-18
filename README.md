@@ -11,8 +11,6 @@
   🚀 Aspiring Full-Stack Developer | Devops Learner | Problem Solver
 </p>
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/aryanpatel1066/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
