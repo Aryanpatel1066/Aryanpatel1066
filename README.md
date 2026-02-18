@@ -33,7 +33,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ## 🛠️ Tech Stack & Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,python,git,github,linux,docker,postman,typeorm&theme=auto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,python,git,github,linux,docker,postman,typeorm&theme=light)](https://skillicons.dev)
 
 ---
 
