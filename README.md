@@ -39,10 +39,10 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 ## 🔥 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanpatel1066&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aryanpatel1066&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
  
