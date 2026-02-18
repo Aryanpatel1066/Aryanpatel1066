@@ -28,7 +28,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 - 🌱 **Exploring** new technologies & building innovative web applications.  
 - ⚡ Passionate about **solving problems** and **reading tech articles** in my free time.  
 - 📫 **How to reach me:**  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Aryan%20Patel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel1066/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,python,docker,postman,git,github,linux,typescript,typeorm&theme=auto&perline=8)](https://skillicons.dev)
 
 ---
 
