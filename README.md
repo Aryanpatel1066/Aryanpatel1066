@@ -48,8 +48,7 @@
 
 <div align="center">
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aryanpatel1066&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-</div>
+ </div>
 
 <br/>
 
