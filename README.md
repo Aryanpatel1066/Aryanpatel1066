@@ -39,7 +39,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,python,git,github,linux,docker,postman,typeorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,redis,python,git,github,githubactions,linux,docker,postman,typeorm&theme=light)](https://skillicons.dev)
+
 </div>
 
 ---
