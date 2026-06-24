@@ -3,53 +3,81 @@
 </div>
 
 <h1 align="center">
-  Hey there! 
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  🚀 Aspiring Full-Stack Developer | Devops Learner | Problem Solver
+  🚀 Backend Developer | DevOps Enthusiast | AWS • Docker • Kubernetes • CI/CD
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryanpatel1066/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/Aryanpatel1066/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="mailto:aryanpatel1248@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://aryanpatel.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **Computer Engineering** at **LRRP Institute of Technology & Research**
-- 🌱 Currently learning **Docker, Backend Architecture & System Design**
-- 💡 Interested in **Web Development, APIs & Databases**
-- ⚡ Love **problem solving** and reading **tech articles**
-- 📫 Reach me via **LinkedIn or Gmail**
+* 🎓 Computer Engineering Graduate (2026) from L.D.R.P – ITR
+* 💼 Former **Backend Developer Intern** at Neptune Technolab
+* 🌱 Currently learning **Terraform, Grafana, and Cloud-Native Infrastructure**
+* ☁️ Passionate about **DevOps, Cloud Computing, Linux, and Automation**
+* 🔧 Experienced with **Node.js, Docker, GitHub Actions, AWS, and CI/CD pipelines**
+* 🚀 Built and deployed production-ready applications on AWS
+* 📫 Reach me via **LinkedIn or Gmail**
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,redis,python,git,github,githubactions,linux,docker,postman,typeorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,mysql,redis,python,linux,git,github,githubactions,docker,aws,kubernetes,terraform,nginx,postman\&theme=light)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🔥 GitHub Stats  
+## ☁️ DevOps & Cloud
+
+* Linux Administration
+* Docker & Docker Compose
+* GitHub Actions (CI/CD)
+* AWS EC2, IAM, S3, VPC, CloudWatch
+* Kubernetes (Learning)
+* Terraform (Learning)
+* Monitoring & Observability
+* Infrastructure as Code
+
+---
+
+## 🚀 Featured Project
+
+### SalonBliss – DevOps Deployment Project
+
+* Dockerized MERN application
+* Automated CI/CD using GitHub Actions
+* AWS EC2 deployment
+* Docker Compose orchestration
+* CloudWatch monitoring
+* Linux-based production environment
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=tokyonight&hide_border=true" />
- </div>
+</div>
 
 <br/>
 
@@ -59,9 +87,11 @@
 
 ---
 
-## 🚀 Let’s Connect & Collaborate  
+## 🚀 Let's Connect
 
 <p align="center">
-  I’m always open to learning, collaboration, and exciting projects.  
-  Feel free to connect with me!
+Backend Development • DevOps • Cloud Computing • Open Source
+
+Always learning, building, and exploring modern software infrastructure.
+
 </p>
