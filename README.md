@@ -53,8 +53,8 @@
 * Docker & Docker Compose
 * GitHub Actions (CI/CD)
 * AWS EC2, IAM, S3, VPC, CloudWatch
-* Kubernetes (Learning)
-* Terraform (Learning)
+* Kubernetes
+* Terraform 
 * Monitoring & Observability
 * Infrastructure as Code
 
